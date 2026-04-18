@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
+duckduckgo-search
+wikipedia
+arxiv
+sqlalchemy
+mysql-connector-python
+pypdf
+validators
+youtube_transcript_api
+numexp
