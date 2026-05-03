@@ -10,6 +10,7 @@ Some advanced MathGPT-like systems even combine LLMs with Computer Algebra Syste
 
 ## Features
 -Solves arithmetic, algebra, and word problems
+
 -Natural language understanding
 -Step-by-step explanations
 -Real-time AI responses
